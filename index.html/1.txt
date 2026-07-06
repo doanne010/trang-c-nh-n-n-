@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu bản thân</title>
+</head>
+<body>
+
+    <h1>Dương Ngọc Đoàn</h1>
+
+    <img src="avatar.jpg" alt="Ảnh đại diện của Dương Ngọc Đoàn" width="200">
+
+    <p>
+        Xin chào! Mình là <strong>Dương Ngọc Đoàn</strong>. Mình là sinh viên yêu thích lập trình và đang học phát triển web.
+    </p>
+
+    <h2>Sở thích</h2>
+    <ul>
+        <li>Lập trình</li>
+        <li>Nghe nhạc</li>
+        <li>Đọc sách</li>
+        <li>Chơi thể thao</li>
+    </ul>
+
+    <h2>Thời khóa biểu</h2>
+    <table border="1">
+        <tr>
+            <th>Thứ</th>
+            <th>Môn học</th>
+            <th>Thời gian</th>
+        </tr>
+        <tr>
+            <td>Thứ 2</td>
+            <td>Lập trình Web</td>
+            <td>07:30 - 09:30</td>
+        </tr>
+        <tr>
+            <td>Thứ 4</td>
+            <td>Cơ sở dữ liệu</td>
+            <td>13:00 - 15:00</td>
+        </tr>
+        <tr>
+            <td>Thứ 6</td>
+            <td>Java</td>
+            <td>09:30 - 11:30</td>
+        </tr>
+    </table>
+
+    <h2>Mạng xã hội</h2>
+    <a href="https://facebook.com/tenfacebookcuaban" target="_blank">
+        Facebook của tôi
+    </a>
+
+</body>
+</html>
